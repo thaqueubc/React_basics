@@ -1,1 +1,1 @@
-# Resct_basics
+# React_basics
